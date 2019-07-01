@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 import requests, json, os, time
 ################
 N = '\033[0m'
