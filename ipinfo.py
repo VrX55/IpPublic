@@ -19,7 +19,7 @@ banner = """
  _/ // /_/ / ____/ /_/ / /_/ / / / /__
 /___/ .___/_/    \__,_/_.___/_/_/\___/
    /_/%s [ I N F O R M A T I O N ]
-            {coded by:VRX} 
+            [coded by:Zar] 
 -----------------------------------------"""%(G,W)
 os.system('clear')
 print(banner)
